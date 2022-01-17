@@ -1,0 +1,96 @@
+body {
+    font-family: 'lato', sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align:center
+}
+
+a {
+    text-decoration-line: none;
+    color: purple;
+}
+
+a:hover {
+    cursor: pointer;
+    color: orange;
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.boxes {
+    margin: auto;
+    padding: 2em;
+    border: 1px solid black;
+    border-radius: 1em;
+    width: 30em;
+    display: block;
+}
+
+#box1, #box2, #box3, #box4 {
+    background-color: #ffffcc       
+}
+
+.images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #edd8b9;
+    position: absolute;
+    left: 50em;
+}
+
+h1 {
+    color: fuchsia
+}
+
+.original {
+    color: green
+}
+
+.additional {
+    color: blue
+}
+
+#show1 {
+    color: red;
+}
+
+#show2 {
+    color:coral
+}
+
+#show3 {
+    color:darkblue
+}
+
+#show4 {
+    color:darkmagenta
+}
+
+#show5 {
+    color:darkslateblue
+}
+
+ul {
+    color: darkorchid
+}
+
+.star {
+    color: salmon;
+    border: 1px solid black;
+}
+
+#wars {
+    color:springgreen;
+    border: 1px solid black;
+}
+
+.favorites {
+    border: 1px solid black;
+}
